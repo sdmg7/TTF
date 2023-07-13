@@ -1,8 +1,14 @@
 # Test de Terapia Fisica
 
--BLESSED TEST
+-BLESSED TEST 
+
 -FMS TEST
+
 -KATZ TEST
+
 -LOBO TEST
+
 -MACS TEST
+
 -TINETTI TEST
+
